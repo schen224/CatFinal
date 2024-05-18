@@ -123,7 +123,7 @@ public class Main {
             public void actionPerformed(ActionEvent arg0) {
                 JOptionPane.showMessageDialog(frame,
                         "Welcome,  you’re stuck in this box.  What a shame. " + "\n" +
-                                "Try to get out if you feel like it. " + "\n" +
+                                "Try to get out if you feel like it. It's really not worth it. " + "\n" +
                                 "There’s three locks to crack,  please attempt previous lock before trying the next." + "\n" + "GoodLuck.",
                         "Introduction",
                         JOptionPane.PLAIN_MESSAGE);
