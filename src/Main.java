@@ -124,7 +124,7 @@ public class Main {
                 JOptionPane.showMessageDialog(frame,
                         "Welcome,  you’re stuck in this box.  What a shame. " + "\n" +
                                 "Try to get out if you feel like it. " + "\n" +
-                                "There’s three locks to crack,  and you must answer the previous lock before the next lock is available." + "\n" + "GoodLuck.",
+                                "There’s three locks to crack,  please attempt previous lock before trying the next." + "\n" + "GoodLuck.",
                         "Introduction",
                         JOptionPane.PLAIN_MESSAGE);
 
